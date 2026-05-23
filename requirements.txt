@@ -1,5 +1,5 @@
 python-telegram-bot
 instaloader
-shazamio
 aiohttp
 aiofiles
+requests
